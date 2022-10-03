@@ -7,13 +7,6 @@
 - 🍕 Pizza and coding lover 
 
 
-
-<div align="center"> 
-  <img height=200  src="https://github-readme-stats.vercel.app/api?username=vaaakoo&hide=prs,issues,contribs&show_icons=true&theme=tokyonight" alt="Top langs" />
-  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaaakoo&show_icons=true&theme=radical&layout=tokyonight" alt="Stats" />
-</div>
-
-
 ## Skills:
 <div align="center">
   <img alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45">
@@ -36,6 +29,11 @@
   <img alt="Drupal" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/drupal/drupal-original-wordmark.svg" width="45"/>
   <img alt="Photoshop" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" width="45">
   <img alt="Illustrator" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="45">
+</div>
+
+<div align="center"> 
+  <img height=150  src="https://github-readme-stats.vercel.app/api?username=vaaakoo&hide=prs,issues,contribs&show_icons=true&theme=tokyonight" alt="Top langs" />
+  <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaaakoo&show_icons=true&theme=radical&layout=tokyonight" alt="Stats" />
 </div>
 
 <hr>
