@@ -34,7 +34,6 @@
 
 <div align="center"> 
   <img height=150  src="https://github-readme-stats.vercel.app/api?username=vaaakoo&hide=prs,issues,contribs&show_icons=true&theme=tokyonight" alt="Top langs" />
-  <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaaakoo&show_icons=true&theme=radical&layout=tokyonight" alt="Stats" />
 </div>
 
 
