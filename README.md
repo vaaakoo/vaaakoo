@@ -3,8 +3,9 @@
 ### Full Stack Developer
 
 - 👀 I’m interested in growing and learning new Skills for becoming an experienced **Full Stack Developer;**
-- 🌱 I’m currently learning **React, Javascript, drupal, php, serverless database and much more;**
-- 🍕 Pizza and coding lover 
+- 👀 Passionate about continuous growth and evolving as an experienced Full Stack Developer;
+- 💼 Seasoned in C#, .NET, Web API, and Angular, with a focus on delivering robust and scalable solutions;
+- 🌱 Currently advancing skills in React, JavaScript, Drupal, PHP, and exploring serverless architectures and databases;
 
 
 ## Skills:
@@ -12,6 +13,9 @@
   <img alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45">
   <img alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45">
   <img alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45">
+  <img alt=".NET" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="45">
+  <img alt="MS SQL" src="https://assets-global.website-files.com/601064f495f4b4967f921aa9/632b60f8c1aa184a0e5766d9_202209-ms-sql-icon-3x-p-800.png"  width="50"; height="50">
+  <img alt="Angular" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="45">
   <img alt="PHP" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="50">
   <img alt="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="45">
   <img alt="Sass" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="50">
