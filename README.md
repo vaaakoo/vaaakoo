@@ -1,43 +1,72 @@
 #### WELCOME TO MY WORLD
 # 👋 Hi, I’m @vaaakoo
-### Full Stack Developer
+### Middle Backend .NET Developer
 
-- 👀 I’m interested in growing and learning new Skills for becoming an experienced **Full Stack Developer;**
-- 👀 Passionate about continuous growth and evolving as an experienced Full Stack Developer;
-- 💼 Seasoned in C#, .NET, Web API, and Angular, with a focus on delivering robust and scalable solutions;
-- 🌱 Currently advancing skills in React, JavaScript, Drupal, PHP, and exploring serverless architectures and databases;
+- 💼 **Current Focus:** Building robust .NET-based backend systems, REST APIs, and microservices using clean architecture principles.
+- ⚙️ **Tech Stack:** Specialized in C#, .NET Core (.NET 6+), Entity Framework, Dapper, and MediatR.
+- 🤖 **AI-Powered Development:** Leveraging AI tools like **GitHub Copilot**, **Cursor IDE**, **Gemini**, and **Claude** to accelerate coding, debugging, and building intelligent AI agents.
+- 🚀 **Architecture & DevOps:** Experienced with asynchronous messaging (RabbitMQ), relational databases (MS SQL, Oracle, MySQL), and load-balanced environments (IIS, Linux clusters).
+- 🌱 **Continuous Growth:** Passionate about scalable system design, secure data handling, and monitoring production environments.
 
+## 🛠️ Tech Stack & Tools
 
-## Skills:
-<div align="center">
-  <img alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45">
-  <img alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45">
-  <img alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45">
-  <img alt=".NET" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="45">
-  <img alt="MS SQL" src="https://assets-global.website-files.com/601064f495f4b4967f921aa9/632b60f8c1aa184a0e5766d9_202209-ms-sql-icon-3x-p-800.png"  width="50"; height="50">
-  <img alt="Angular" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="45">
-  <img alt="PHP" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="50">
-  <img alt="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="45">
-  <img alt="Sass" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="50">
-  <img alt="Tailwindcss" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="45">  
-  <img alt="jQuery" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" width="45">
-  <img alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45">
-  <img alt="Github" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45">
-  <img alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45">
-  <img alt="NodeJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45">
-  <img alt="npm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="50">
+**AI Development Tools & Assistants**
+<div align="left">
+  <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot">
+  <img src="https://img.shields.io/badge/Cursor%20IDE-191919?style=for-the-badge&logo=openai&logoColor=white" alt="Cursor IDE">
+  <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini">
+  <img src="https://img.shields.io/badge/Claude%20AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude AI">
+  <img src="https://img.shields.io/badge/AI%20Agents-412991?style=for-the-badge&logo=probot&logoColor=white" alt="AI Agents">
 </div>
-<div align="center">
-  <img alt="VS Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="45">
-  <img alt="Phpstorm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original-wordmark.svg" width="45">
-  <img alt="Drupal" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/drupal/drupal-original-wordmark.svg" width="45"/>
-  <img alt="Photoshop" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" width="45">
-  <img alt="Illustrator" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="45">
+
+**Backend & Architecture**
+<div align="left">
+  <img alt="C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="45">
+  <img alt=".NET" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" width="45">
+  <img alt="Blazor" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blazor/blazor-original.svg" width="45">
+  <img alt="RabbitMQ" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" width="45">
+  <img alt="PHP" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="45">
 </div>
+
+**Databases, DevOps & Monitoring**
+<div align="left">
+  <img alt="MS SQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="45">
+  <img alt="Oracle" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" width="45">
+  <img alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="45">
+  <img alt="Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="45">
+  <img alt="Azure" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="45">
+  <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat&logo=azuredevops&logoColor=white" height="45" alt="Azure DevOps">
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white" height="45" alt="Cloudflare">
+  <img alt="Grafana" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" width="45">
+  <img alt="Prometheus" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prometheus/prometheus-original.svg" width="45">
+  <img alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="45">
+</div>
+
+**Frontend & Additional Tools**
+<div align="left">
+  <img alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="45">
+  <img alt="Angular" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" width="45">
+  <img alt="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="45">
+  <img alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="45">
+  <img alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="45">
+  <img alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="45">
+  <img alt="TailwindCSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="45">  
+  <img alt="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="45">
+  <img alt="VS Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="45">
+</div>
+
+<hr>  
+
 <hr>  
 
 <div align="center"> 
-  <img height=150  src="https://github-readme-stats.vercel.app/api?username=vaaakoo&hide=prs,issues,contribs&show_icons=true&theme=tokyonight" alt="Top langs" />
+  <h3 align="center">⚡ GitHub Stats & Activity</h3>
+  
+  <br><br>
+
+  <img height="170" src="https://streak-stats.demolab.com/?user=vaaakoo&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+  <br><br>
+
+  <img src="https://komarev.com/ghpvc/?username=vaaakoo&label=Profile%20Views&color=412991&style=for-the-badge" alt="Profile Views" />
 </div>
-
-
