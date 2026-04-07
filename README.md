@@ -71,9 +71,19 @@
   <img src="https://komarev.com/ghpvc/?username=vaaakoo&label=Profile%20Views&color=412991&style=for-the-badge" alt="Profile Views" />
 
   <br><br>
-    <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vaaakoo/vaaakoo/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vaaakoo/vaaakoo/output/github-contribution-grid-snake.svg" />
-    <img src="https://raw.githubusercontent.com/irakli012/irakli012/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/giorgitchanturidze/giorgitchanturidze/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/giorgitchanturidze/giorgitchanturidze/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/giorgitchanturidze/giorgitchanturidze/output/github-contribution-grid-snake.svg"
+      alt="Animated snake crawling through the contribution grid"
+      loading="lazy"
+    />
   </picture>
 </div>
