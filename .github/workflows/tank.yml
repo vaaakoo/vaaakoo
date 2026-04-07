@@ -1,0 +1,29 @@
+name: Generate Tank 1990 Graph
+
+on:
+  schedule:
+    - cron: "0 21 * * *" 
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      # This points to YOUR future repository where you wrote the .NET generator code
+      - name: Run Tank 1990 Generator
+        uses: vaaakoo/tank-1990-github-action@v1
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-tank-grid.svg
+            
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
