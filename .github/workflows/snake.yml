@@ -15,7 +15,7 @@ jobs:
       - name: Generate SVGs (light + dark)
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: irakli012
+          github_user_name: vaaakoo
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
