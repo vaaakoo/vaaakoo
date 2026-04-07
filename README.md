@@ -90,4 +90,14 @@
   <p align="center">
   <img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D Contribution Graph" />
 </p>
+
+<p align="center">
+  <picture>
+    <img
+      src="https://raw.githubusercontent.com/vaaakoo/vaaakoo/output/github-tank-grid.svg"
+      alt="Animated Tank 1990 defending the contribution grid"
+      loading="lazy"
+    />
+  </picture>
+</p>
 </div>
