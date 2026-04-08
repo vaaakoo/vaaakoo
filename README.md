@@ -1,103 +1,98 @@
-#### WELCOME TO MY WORLD
-# 👋 Hi, I’m @vaaakoo
-### Middle Backend .NET Developer
+<h1 align="center">👋 Hi, I'm Vako Janikashvili</h1>
+<h3 align="center">Backend .NET Developer</h3>
 
-- 💼 **Current Focus:** Building robust .NET-based backend systems, REST APIs, and microservices using clean architecture principles.
-- ⚙️ **Tech Stack:** Specialized in C#, .NET Core (.NET 6+), Entity Framework, Dapper, and MediatR.
-- 🤖 **AI-Powered Development:** Leveraging AI tools like **GitHub Copilot**, **Cursor IDE**, **Gemini**, and **Claude** to accelerate coding, debugging, and building intelligent AI agents.
-- 🚀 **Architecture & DevOps:** Experienced with asynchronous messaging (RabbitMQ), relational databases (MS SQL, Oracle, MySQL), and load-balanced environments (IIS, Linux clusters).
-- 🌱 **Continuous Growth:** Passionate about scalable system design, secure data handling, and monitoring production environments.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=00F7FF&center=true&vCenter=true&width=600&lines=.NET+Backend+Developer;Microservices+%7C+Clean+Architecture;High+Performance+Systems" />
+</p>
 
-## 🛠️ Tech Stack & Tools
+---
 
-**AI Development Tools & Assistants**
-<div align="left">
-  <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot">
-  <img src="https://img.shields.io/badge/Cursor%20IDE-191919?style=for-the-badge&logo=openai&logoColor=white" alt="Cursor IDE">
-  <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini">
-  <img src="https://img.shields.io/badge/Claude%20AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude AI">
-  <img src="https://img.shields.io/badge/AI%20Agents-412991?style=for-the-badge&logo=probot&logoColor=white" alt="AI Agents">
-</div>
+## 💼 About Me
 
-**Backend & Architecture**
-<div align="left">
-  <img alt="C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="45">
-  <img alt=".NET" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" width="45">
-  <img alt="Blazor" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blazor/blazor-original.svg" width="45">
-  <img alt="RabbitMQ" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" width="45">
-  <img alt="PHP" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="45">
-</div>
+- 💼 Designing and building scalable **.NET backend systems**, REST APIs & microservices  
+- ⚙️ Strong experience in **C#, .NET 6+, EF Core, Dapper, MediatR**  
+- 🤖 Enhancing development with AI tools (**Copilot, Cursor, Gemini, Claude**)  
+- 🚀 Working with **RabbitMQ, MS SQL, Oracle, MySQL, Linux environments**  
+- 🔐 Focused on **clean architecture, performance, and secure systems**
 
-**Databases, DevOps & Monitoring**
-<div align="left">
-  <img alt="MS SQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="45">
-  <img alt="Oracle" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" width="45">
-  <img alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="45">
-  <img alt="Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="45">
-  <img alt="Azure" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="45">
-  <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat&logo=azuredevops&logoColor=white" height="45" alt="Azure DevOps">
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white" height="45" alt="Cloudflare">
-  <img alt="Grafana" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" width="45">
-  <img alt="Prometheus" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prometheus/prometheus-original.svg" width="45">
-  <img alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="45">
-</div>
+---
 
-**Frontend & Additional Tools**
-<div align="left">
-  <img alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="45">
-  <img alt="Angular" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" width="45">
-  <img alt="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="45">
-  <img alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="45">
-  <img alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="45">
-  <img alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="45">
-  <img alt="TailwindCSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="45">  
-  <img alt="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="45">
-  <img alt="VS Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="45">
-</div>
+## 🛠️ Tech Stack
 
-<hr>  
+### Backend & Architecture
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/>
+</p>
 
-<hr>  
+### Databases & DevOps
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="40"/>
+</p>
 
-<div align="center"> 
-  <h3 align="center">⚡ GitHub Stats & Activity</h3>
-  
-  <br><br>
+---
 
-  <img height="170" src="https://streak-stats.demolab.com/?user=vaaakoo&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+## 📊 GitHub Stats
 
-  <br><br>
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=vaaakoo&theme=dark" height="160"/>
+</p>
 
-  <img src="https://komarev.com/ghpvc/?username=vaaakoo&label=Profile%20Views&color=412991&style=for-the-badge" alt="Profile Views" />
+---
 
-  <br><br>
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/giorgitchanturidze/giorgitchanturidze/output/github-contribution-grid-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/giorgitchanturidze/giorgitchanturidze/output/github-contribution-grid-snake.svg"
-    />
-    <img
-      src="https://raw.githubusercontent.com/giorgitchanturidze/giorgitchanturidze/output/github-contribution-grid-snake.svg"
-      alt="Animated snake crawling through the contribution grid"
-      loading="lazy"
-    />
-  </picture>
-<br><br>
-  <p align="center">
-  <img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D Contribution Graph" />
+## 🔥 Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vaaakoo&theme=github-dark"/>
+
+---
+
+## 📫 Contact
+
+<p align="center">
+  <a href="mailto:vjanikashvili@gmail.com">
+    <img src="https://img.shields.io/badge/Email-vjanikashvili@gmail.com-red?style=for-the-badge&logo=gmail"/>
+  </a>
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+</p>
+
+---
+
+## 👀 Profile Views
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=vaaakoo&color=blueviolet&style=for-the-badge"/>
 </p>
 
 <p align="center">
-  <picture>
-    <img
-      src="https://raw.githubusercontent.com/vaaakoo/vaaakoo/output/github-tank-grid.svg"
-      alt="Animated Tank 1990 defending the contribution grid"
-      loading="lazy"
-    />
-  </picture>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=600&lines=Initializing+backend+system...;Loading+.NET+microservices...;System+ready+✔;Welcome+to+my+world" />
 </p>
-</div>
+
+
+---
+
+## 🧪 Experimental Section (Preview)
+
+<!-- 🔥 Animated Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=180&text=Vako%20Janikashvili&fontSize=35&color=0:00F260,100:0575E6"/>
+</p>
+
+
+
+<pre>
+██████╗  █████╗  ██████╗██╗  ██╗███████╗███╗   ██╗██████╗ 
+██╔══██╗██╔══██╗██╔════╝██║ ██╔╝██╔════╝████╗  ██║██╔══██╗
+██████╔╝███████║██║     █████╔╝ █████╗  ██╔██╗ ██║██║  ██║
+██╔══██╗██╔══██║██║     ██╔═██╗ ██╔══╝  ██║╚██╗██║██║  ██║
+██████╔╝██║  ██║╚██████╗██║  ██╗███████╗██║ ╚████║██████╔╝
+</pre>
+
