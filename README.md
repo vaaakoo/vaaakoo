@@ -1,4 +1,11 @@
-<h1 align="center">👋 Hi, I'm Vako Janikashvili</h1>
+<div>
+  <h1 align="center">
+    👋 Hi, I'm Vako Janikashvili
+    <img align="right" src="https://komarev.com/ghpvc/?username=vaaakoo&color=blueviolet&style=for-the-badge"/>
+  </h1>
+</div>
+<br/>
+
 <h3 align="center">Backend .NET Developer</h3>
 
 <p align="center">
@@ -95,17 +102,9 @@
   <a href="mailto:vjanikashvili@gmail.com">
     <img src="https://img.shields.io/badge/Email-vjanikashvili@gmail.com-red?style=for-the-badge&logo=gmail"/>
   </a>
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN">
+  <a href="https://www.linkedin.com/in/vakojanikashvili">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
   </a>
-</p>
-
----
-
-## 👀 Profile Views
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=vaaakoo&color=blueviolet&style=for-the-badge"/>
 </p>
 
 ---
