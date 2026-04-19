@@ -21,9 +21,12 @@
 </p>
 
 <p align="center">
-  <img src="./dist/terminal.svg" alt="Terminal Animation" width="100%">
+  <img src="./dist/terminal.svg" alt="Terminal Animation" width="80%">
 </p>
 
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-view.svg" width="80%">
+</p>
 ---
 
 ## 💼 About Me
@@ -95,12 +98,6 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=vaaakoo&theme=dark" height="160"/>
 </p>
-
----
-
-## 🔥 Activity
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vaaakoo&theme=github-dark"/>
 
 ---
 
