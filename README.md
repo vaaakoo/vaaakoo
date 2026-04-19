@@ -16,6 +16,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=22&color=00F7FF&center=true&vCenter=true&width=600&lines=.NET+Backend+Developer;Microservices+%7C+Clean+Architecture;High+Performance+Systems" />
 </p>
 
+
+<p align="center">
+  <img src="./dist/data-flow.svg" alt="Microservices Data Flow Animation">
+</p>
 ---
 
 ## 💼 About Me
