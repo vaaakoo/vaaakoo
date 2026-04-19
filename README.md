@@ -17,11 +17,11 @@
 </p>
 
 <p align="center">
-  <img src="./dist/terminal.svg" alt="Terminal Animation" width="100%">
+  <img src="./dist/data-flow.svg" alt="Microservices Data Flow Animation">
 </p>
 
 <p align="center">
-  <img src="./dist/data-flow.svg" alt="Microservices Data Flow Animation">
+  <img src="./dist/terminal.svg" alt="Terminal Animation" width="100%">
 </p>
 
 ---
