@@ -1,7 +1,7 @@
 const fs = require('fs');
 
 const svgContent = `
-<svg width="800" height="400" viewBox="0 0 800 400" xmlns="http://www.w3.org/2000/svg">
+<svg width="850" height="480" viewBox="0 0 850 480" xmlns="http://www.w3.org/2000/svg">
   <style>
     .bg { fill: #1e1e1e; rx: 10; }
     .header { fill: #323233; }
@@ -9,90 +9,85 @@ const svgContent = `
     .dot-yellow { fill: #ffbd2e; }
     .dot-green { fill: #27c93f; }
     
-    .text {
-      font-family: 'Consolas', 'Courier New', monospace;
-      font-size: 14px;
-      fill: #cccccc;
-      opacity: 0;
-      animation: appear 0.1s forwards;
+    .text { 
+      font-family: 'Consolas', 'Courier New', monospace; 
+      font-size: 14px; 
+      fill: #cccccc; 
+      opacity: 0; 
+      animation: appear 0.1s forwards; 
     }
     
     .prompt { fill: #4af626; font-weight: bold; }
     .path { fill: #3b8eea; font-weight: bold; }
     .cmd { fill: #ffffff; }
-    .success { fill: #27c93f; font-weight: bold; }
-    .warning { fill: #ffbd2e; }
+    .string { fill: #ce9178; }
+    .key { fill: #9cdcfe; }
     
-    .cursor {
-      fill: #cccccc;
-      animation: blink 1s step-end infinite;
-    }
+    .cursor { fill: #cccccc; animation: blink 1s step-end infinite; }
 
     /* ანიმაციის თანმიმდევრობა (წამებში) */
     .l1 { animation-delay: 0.5s; }
-    .l2 { animation-delay: 1.5s; }
-    .l3 { animation-delay: 2.0s; }
-    .l4 { animation-delay: 2.5s; }
-    .l5 { animation-delay: 3.5s; }
-    .l6 { animation-delay: 3.7s; }
-    .l7 { animation-delay: 3.9s; }
-    .l8 { animation-delay: 5.0s; }
-    .l9 { animation-delay: 6.0s; }
-    .l10 { animation-delay: 6.3s; }
-    .l11 { animation-delay: 7.5s; }
+    .l2 { animation-delay: 1.2s; }
+    
+    .l3 { animation-delay: 2.5s; }
+    .l4 { animation-delay: 3.2s; }
+    .l5 { animation-delay: 3.4s; }
+    .l6 { animation-delay: 3.6s; }
+    .l7 { animation-delay: 3.8s; }
+    .l8 { animation-delay: 4.0s; }
+    
+    .l9 { animation-delay: 5.5s; }
+    .l10 { animation-delay: 6.2s; }
+    .l11 { animation-delay: 6.5s; }
+    .l12 { animation-delay: 6.8s; }
+    
+    .l13 { animation-delay: 8.5s; }
+    .l14 { animation-delay: 9.2s; }
+    .l15 { animation-delay: 9.5s; }
 
-    @keyframes appear {
-      to { opacity: 1; }
-    }
-    @keyframes blink {
-      0%, 100% { opacity: 1; }
-      50% { opacity: 0; }
-    }
+    .l16 { animation-delay: 10.5s; }
+
+    @keyframes appear { to { opacity: 1; } }
+    @keyframes blink { 0%, 100% { opacity: 1; } 50% { opacity: 0; } }
   </style>
 
-  <rect class="bg" width="800" height="400" />
-  <path class="header" d="M0 10 Q0 0 10 0 H790 Q800 0 800 10 V30 H0 Z" />
+  <rect class="bg" width="850" height="480" />
+  <path class="header" d="M0 10 Q0 0 10 0 H840 Q850 0 850 10 V30 H0 Z" />
   <circle class="dot-red" cx="20" cy="15" r="6" />
   <circle class="dot-yellow" cx="40" cy="15" r="6" />
   <circle class="dot-green" cx="60" cy="15" r="6" />
-  <text x="350" y="20" font-family="monospace" font-size="12" fill="#888">vako@dev-machine: ~</text>
+  <text x="375" y="20" font-family="monospace" font-size="12" fill="#888">vaaakoo@vaaakoo-dev: ~</text>
 
   <g transform="translate(20, 60)">
-    <text class="text l1" y="0">
-      <tspan class="prompt">vako@dev-machine</tspan>:<tspan class="path">~</tspan>$ <tspan class="cmd">cd Nexus.Core</tspan>
-    </text>
     
-    <text class="text l2" y="25">
-      <tspan class="prompt">vako@dev-machine</tspan>:<tspan class="path">~/Nexus.Core</tspan>$ <tspan class="cmd">dotnet build -c Release</tspan>
-    </text>
+    <text class="text l1" y="0"><tspan class="prompt">vaaakoo@vaaakoo-dev</tspan>:<tspan class="path">~</tspan>$ <tspan class="cmd">whoami</tspan></text>
+    <text class="text l2" y="22">Vako Janikashvili | Middle Backend C# Developer</text>
     
-    <text class="text l3" y="50">MSBuild version 17.8.3+195e7f5a3 for .NET</text>
-    <text class="text l4" y="70">  Determining projects to restore...</text>
-    <text class="text l5" y="90">  Restored /src/Nexus.Core/Nexus.Core.csproj (in 245 ms).</text>
-    <text class="text l6 success" y="115">Build succeeded.</text>
-    <text class="text l7 warning" y="135">    0 Warning(s)</text>
-    <text class="text l7" y="155">    0 Error(s)</text>
+    <text class="text l3" y="55"><tspan class="prompt">vaaakoo@vaaakoo-dev</tspan>:<tspan class="path">~</tspan>$ <tspan class="cmd">cat skills.json</tspan></text>
+    <text class="text l4" y="77">{</text>
+    <text class="text l5" y="99">  <tspan class="key">"backend"</tspan>: [<tspan class="string">".NET 6+", "C#", "Microservices", "RabbitMQ"</tspan>],</text>
+    <text class="text l6" y="121">  <tspan class="key">"database"</tspan>: [<tspan class="string">"MS SQL Server", "Oracle", "MySQL"</tspan>],</text>
+    <text class="text l7" y="143">  <tspan class="key">"frontend"</tspan>: [<tspan class="string">"Angular", "React", "TypeScript"</tspan>]</text>
+    <text class="text l8" y="165">}</text>
 
-    <text class="text l8" y="190">
-      <tspan class="prompt">vako@dev-machine</tspan>:<tspan class="path">~/Nexus.Core</tspan>$ <tspan class="cmd">docker-compose up -d grocery-db redis</tspan>
-    </text>
-    
-    <text class="text l9" y="215">[+] Running 2/2</text>
-    <text class="text l10" y="235"> ✔ Container grocery-db  <tspan class="success">Started</tspan></text>
-    <text class="text l10" y="255"> ✔ Container redis-cache <tspan class="success">Started</tspan></text>
+    <text class="text l9" y="198"><tspan class="prompt">vaaakoo@vaaakoo-dev</tspan>:<tspan class="path">~</tspan>$ <tspan class="cmd">./get_experience.sh</tspan></text>
+    <text class="text l10" y="220">> [Current] Back-End Developer @ Payunicard</text>
+    <text class="text l11" y="242">> [2023-2024] Back-End Developer @ Revenue Service</text>
+    <text class="text l12" y="264">> [2022-2023] Full-Stack Developer @ Bitoid Technologies</text>
 
-    <text class="text l11" y="290">
-      <tspan class="prompt">vako@dev-machine</tspan>:<tspan class="path">~/Nexus.Core</tspan>$ <tspan class="cmd">./deploy.sh</tspan>
-    </text>
-    
-    <rect class="text l11 cursor" x="310" y="278" width="8" height="15" />
+    <text class="text l13" y="297"><tspan class="prompt">vaaakoo@vaaakoo-dev</tspan>:<tspan class="path">~</tspan>$ <tspan class="cmd">./status.sh</tspan></text>
+    <text class="text l14" y="319">> Focus: Building highly scalable, reliable systems with clean architecture.</text>
+    <text class="text l15" y="341">> Active Project: Nexus.Core (Full-stack E-commerce Architecture)</text>
+
+    <text class="text l16" y="374"><tspan class="prompt">vaaakoo@vaaakoo-dev</tspan>:<tspan class="path">~</tspan>$</text>
+    <rect class="text l16 cursor" x="182" y="362" width="8" height="15" />
   </g>
 </svg>
 `;
 
+// ფაილის შენახვა
 if (!fs.existsSync('dist')){
     fs.mkdirSync('dist');
 }
-
 fs.writeFileSync('dist/terminal.svg', svgContent);
-console.log('Terminal SVG generated successfully!');
+console.log('CV Terminal SVG generated successfully!');
