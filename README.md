@@ -20,6 +20,7 @@
 <p align="center">
   <img src="./dist/data-flow.svg" alt="Microservices Data Flow Animation">
 </p>
+
 ---
 
 ## 💼 About Me
