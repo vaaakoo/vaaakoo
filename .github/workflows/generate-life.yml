@@ -1,0 +1,29 @@
+name: Generate Game of Life
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # ყოველდღე განაახლებს ანიმაციას ახალი შემთხვევითი პატერნით
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '20'
+
+      - name: Generate Life SVG
+        run: node generate-life.js # აქ ვუშვებთ ახალ სკრიპტს
+        
+      - name: Commit and Push changes
+        run: |
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add dist/game-of-life.svg
+          git commit -m "chore: update game of life animation" || exit 0
+          git push
