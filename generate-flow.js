@@ -1,0 +1,74 @@
+const fs = require('fs');
+
+const svgContent = `
+<svg width="800" height="400" viewBox="0 0 800 400" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .node { fill: #161b22; stroke: #38bdf8; stroke-width: 2; rx: 8; }
+    .node-center { fill: #161b22; stroke: #818cf8; stroke-width: 2.5; rx: 8; animation: pulseCenter 2s infinite; }
+    .text { fill: #c9d1d9; font-family: 'Courier New', Courier, monospace; font-size: 14px; text-anchor: middle; dominant-baseline: middle; font-weight: bold; }
+    .text-sm { fill: #8b949e; font-family: 'Courier New', Courier, monospace; font-size: 11px; text-anchor: middle; dominant-baseline: middle; }
+    .line { stroke: #30363d; stroke-width: 2; stroke-dasharray: 4 4; fill: none; }
+    .packet { fill: #58a6ff; }
+    
+    @keyframes pulseCenter {
+      0% { filter: drop-shadow(0 0 2px #818cf8); }
+      50% { filter: drop-shadow(0 0 12px #818cf8); }
+      100% { filter: drop-shadow(0 0 2px #818cf8); }
+    }
+    .packet-anim { animation: packetPulse 1s infinite alternate; }
+    @keyframes packetPulse {
+      from { filter: drop-shadow(0 0 2px #58a6ff); }
+      to { filter: drop-shadow(0 0 6px #58a6ff); }
+    }
+  </style>
+
+  <rect width="800" height="400" fill="#0d1117" rx="15" />
+
+  <path id="path1" class="line" d="M 400 200 L 200 100" />
+  <path id="path2" class="line" d="M 400 200 L 600 100" />
+  <path id="path3" class="line" d="M 400 200 L 200 300" />
+  <path id="path4" class="line" d="M 400 200 L 600 300" />
+
+  <rect x="310" y="170" width="180" height="60" class="node-center" />
+  <text x="400" y="195" class="text">Nexus.Core Gateway</text>
+  <text x="400" y="215" class="text-sm">.NET 8 / Ocelot</text>
+
+  <rect x="110" y="70" width="180" height="60" class="node" />
+  <text x="200" y="95" class="text">Client Application</text>
+  <text x="200" y="115" class="text-sm">Angular / UI</text>
+
+  <rect x="510" y="70" width="180" height="60" class="node" />
+  <text x="600" y="95" class="text">Grocery Catalog DB</text>
+  <text x="600" y="115" class="text-sm">PostgreSQL / EF Core</text>
+
+  <rect x="110" y="270" width="180" height="60" class="node" />
+  <text x="200" y="295" class="text">Distributed Cache</text>
+  <text x="200" y="315" class="text-sm">Redis</text>
+
+  <rect x="510" y="270" width="180" height="60" class="node" />
+  <text x="600" y="295" class="text">Background Worker</text>
+  <text x="600" y="315" class="text-sm">RabbitMQ / MediatR</text>
+
+  <circle r="4" class="packet packet-anim">
+    <animateMotion dur="1.5s" repeatCount="indefinite" path="M 200 100 L 400 200" />
+  </circle>
+  <circle r="4" class="packet packet-anim">
+    <animateMotion dur="2.2s" repeatCount="indefinite" path="M 400 200 L 600 100" />
+  </circle>
+  <circle r="4" class="packet packet-anim">
+    <animateMotion dur="1.8s" repeatCount="indefinite" path="M 400 200 L 200 300" />
+  </circle>
+  <circle r="4" class="packet packet-anim">
+    <animateMotion dur="2.5s" repeatCount="indefinite" path="M 600 300 L 400 200" />
+  </circle>
+</svg>
+`;
+
+// ვქმნით dist ფოლდერს თუ არ არსებობს
+if (!fs.existsSync('dist')){
+    fs.mkdirSync('dist');
+}
+
+// ვინახავთ SVG ფაილს
+fs.writeFileSync('dist/data-flow.svg', svgContent);
+console.log('SVG animation generated successfully!');
