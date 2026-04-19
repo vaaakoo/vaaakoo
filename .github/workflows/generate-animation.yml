@@ -1,0 +1,29 @@
+name: Generate Microservices Data Flow
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # გაეშვება ყოველ 24 საათში ერთხელ (თუმცა SVG ანიმაცია მუდმივად იმუშავებს)
+  workflow_dispatch: # გაძლევს საშუალებას Actions ტაბიდან ხელით გაუშვა
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '20'
+
+      - name: Generate SVG
+        run: node generate-flow.js
+        
+      - name: Commit and Push changes
+        run: |
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add dist/data-flow.svg
+          git commit -m "chore: update microservices data flow animation" || exit 0
+          git push
