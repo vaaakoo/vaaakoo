@@ -38,10 +38,10 @@
   <circle cx="460" cy="360" r="28" fill="#21262d" stroke="#30363d" stroke-width="2" />
   <circle cx="40" cy="430" r="28" fill="#21262d" stroke="#30363d" stroke-width="2" />
   <circle cx="110" cy="430" r="28" fill="#58a6ff" stroke="#30363d" stroke-width="2" />
-  <circle cx="180" cy="430" r="28" fill="#21262d" stroke="#30363d" stroke-width="2" />
+  <circle cx="180" cy="430" r="28" fill="#bc8cff" stroke="#30363d" stroke-width="2" />
   <circle cx="250" cy="430" r="28" fill="#21262d" stroke="#30363d" stroke-width="2" />
   <circle cx="320" cy="430" r="28" fill="#21262d" stroke="#30363d" stroke-width="2" />
   <circle cx="390" cy="430" r="28" fill="#21262d" stroke="#30363d" stroke-width="2" />
   <circle cx="460" cy="430" r="28" fill="#21262d" stroke="#30363d" stroke-width="2" />
-  <text x="250" y="25" fill="#bc8cff" font-family="monospace" font-size="16" font-weight="bold" text-anchor="middle">Next Move: Player 2 (Purple)</text>
+  <text x="250" y="25" fill="#58a6ff" font-family="monospace" font-size="16" font-weight="bold" text-anchor="middle">Next Move: Player 1 (Blue)</text>
 </svg>
