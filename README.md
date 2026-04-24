@@ -133,3 +133,23 @@
 ██║  ██║██╔══╝  ╚██╗ ██╔╝██╔══╝  ██║     ██║   ██║██╔═══╝ ██╔══╝  ██╔══██╗
 ██████╔╝███████╗ ╚████╔╝ ███████╗███████╗╚██████╔╝██║     ███████╗██║  ██║
 </pre>
+
+
+---
+
+<h3 align="center">🎮 Play Connect 4 with the Community</h3>
+<p align="center">Drop a token by clicking one of the columns below. It takes ~20 seconds for the Action to update the board after you submit the issue!</p>
+
+<p align="center">
+  <img src="./dist/connect4.svg" alt="Connect 4 Board">
+</p>
+
+<p align="center">
+  <a href="https://github.com/vaaakoo/vaaakoo/issues/new?title=c4-move-0&body=Just+click+Submit+new+issue+to+drop+your+token!"><kbd>&nbsp;⬇️ Col 1&nbsp;</kbd></a> &nbsp;
+  <a href="https://github.com/vaaakoo/vaaakoo/issues/new?title=c4-move-1&body=Just+click+Submit+new+issue+to+drop+your+token!"><kbd>&nbsp;⬇️ Col 2&nbsp;</kbd></a> &nbsp;
+  <a href="https://github.com/vaaakoo/vaaakoo/issues/new?title=c4-move-2&body=Just+click+Submit+new+issue+to+drop+your+token!"><kbd>&nbsp;⬇️ Col 3&nbsp;</kbd></a> &nbsp;
+  <a href="https://github.com/vaaakoo/vaaakoo/issues/new?title=c4-move-3&body=Just+click+Submit+new+issue+to+drop+your+token!"><kbd>&nbsp;⬇️ Col 4&nbsp;</kbd></a> &nbsp;
+  <a href="https://github.com/vaaakoo/vaaakoo/issues/new?title=c4-move-4&body=Just+click+Submit+new+issue+to+drop+your+token!"><kbd>&nbsp;⬇️ Col 5&nbsp;</kbd></a> &nbsp;
+  <a href="https://github.com/vaaakoo/vaaakoo/issues/new?title=c4-move-5&body=Just+click+Submit+new+issue+to+drop+your+token!"><kbd>&nbsp;⬇️ Col 6&nbsp;</kbd></a> &nbsp;
+  <a href="https://github.com/vaaakoo/vaaakoo/issues/new?title=c4-move-6&body=Just+click+Submit+new+issue+to+drop+your+token!"><kbd>&nbsp;⬇️ Col 7&nbsp;</kbd></a>
+</p>
