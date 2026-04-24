@@ -33,6 +33,7 @@ jobs:
           git config --local user.name "github-actions[bot]"
           git add board-chess.json dist/connect4-chess.svg
           git commit -m "Play Connect 4 Chess: ${{ github.event.issue.title }}" || exit 0
+          git pull --rebase origin master
           git push
 
       - name: Close Issue Automatically
