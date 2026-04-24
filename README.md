@@ -1,5 +1,5 @@
 <div>
-  <h1 align="center">
+  <h1 >
     👋 Hi, I'm Vako Janikashvili
     <img align="right" src="https://komarev.com/ghpvc/?username=vaaakoo&color=blueviolet&style=for-the-badge"/>
   </h1>
@@ -27,18 +27,6 @@
 <p align="center">
   <img src="./profile-3d-contrib/profile-night-view.svg" width="80%">
 </p>
----
-
-## 💼 About Me
-
-- 💼 Designing and developing **high-performance backend systems** using .NET  
-- ⚙️ Strong expertise in **C#, .NET 6+, EF Core, Dapper, MediatR**  
-- 🧠 Focused on **clean architecture, scalability, and maintainability**  
-- 🚀 Experience building **microservices and distributed systems**  
-- 🔐 Working with **secure APIs, financial flows, and data integrity**  
-- 🤖 Leveraging AI tools (**Copilot, Cursor, Gemini, Claude**) for productivity  
-
----
 
 ## 🛠️ Tech Stack
 
@@ -135,23 +123,3 @@
 </pre>
 
 
----
-
-<h3 align="center">🎮 Play Connect 4 Chess with the Community</h3>
-<p align="center">Drop a piece by clicking a column below. It takes ~20 seconds for the Action to update[cite: 3]!</p>
-
-<p align="center">
-  <img src="./dist/connect4-chess.svg" alt="Connect 4 Chess Board">
-</p>
-
-<p align="center">
-  <a href="https://github.com/vaaakoo/vaaakoo/issues/new?title=c4-move-0&body=Just+click+Submit+new+issue+to+drop+your+token!"><kbd>&nbsp;⬇️ Col 1&nbsp;</kbd></a> &nbsp;
-  <a href="https://github.com/vaaakoo/vaaakoo/issues/new?title=c4-move-1&body=Just+click+Submit+new+issue+to+drop+your+token!"><kbd>&nbsp;⬇️ Col 2&nbsp;</kbd></a> &nbsp;
-  <a href="https://github.com/vaaakoo/vaaakoo/issues/new?title=c4-move-2&body=Just+click+Submit+new+issue+to+drop+your+token!"><kbd>&nbsp;⬇️ Col 3&nbsp;</kbd></a> &nbsp;
-  <a href="https://github.com/vaaakoo/vaaakoo/issues/new?title=c4-move-3&body=Just+click+Submit+new+issue+to+drop+your+token!"><kbd>&nbsp;⬇️ Col 4&nbsp;</kbd></a> &nbsp;
-  <a href="https://github.com/vaaakoo/vaaakoo/issues/new?title=c4-move-4&body=Just+click+Submit+new+issue+to+drop+your+token!"><kbd>&nbsp;⬇️ Col 5&nbsp;</kbd></a> &nbsp;
-  <a href="https://github.com/vaaakoo/vaaakoo/issues/new?title=c4-move-5&body=Just+click+Submit+new+issue+to+drop+your+token!"><kbd>&nbsp;⬇️ Col 6&nbsp;</kbd></a> &nbsp;
-  <a href="https://github.com/vaaakoo/vaaakoo/issues/new?title=c4-move-6&body=Just+click+Submit+new+issue+to+drop+your+token!"><kbd>&nbsp;⬇️ Col 7&nbsp;</kbd></a>
-</p>
-  <a href="https://github.com/vaaakoo/vaaakoo/issues/new?title=c4-move-6&body=Just+click+Submit+new+issue+to+drop+your+token!"><kbd>&nbsp;⬇️ Col 7&nbsp;</kbd></a>
-</p>
