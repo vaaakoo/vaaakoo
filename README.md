@@ -137,11 +137,11 @@
 
 ---
 
-<h3 align="center">🎮 Play Connect 4 with the Community</h3>
-<p align="center">Drop a token by clicking one of the columns below. It takes ~20 seconds for the Action to update the board after you submit the issue!</p>
+<h3 align="center">🎮 Play Connect 4 Chess with the Community</h3>
+<p align="center">Drop a piece by clicking a column below. It takes ~20 seconds for the Action to update[cite: 3]!</p>
 
 <p align="center">
-  <img src="./dist/connect4.svg" alt="Connect 4 Board">
+  <img src="./dist/connect4-chess.svg" alt="Connect 4 Chess Board">
 </p>
 
 <p align="center">
@@ -151,5 +151,7 @@
   <a href="https://github.com/vaaakoo/vaaakoo/issues/new?title=c4-move-3&body=Just+click+Submit+new+issue+to+drop+your+token!"><kbd>&nbsp;⬇️ Col 4&nbsp;</kbd></a> &nbsp;
   <a href="https://github.com/vaaakoo/vaaakoo/issues/new?title=c4-move-4&body=Just+click+Submit+new+issue+to+drop+your+token!"><kbd>&nbsp;⬇️ Col 5&nbsp;</kbd></a> &nbsp;
   <a href="https://github.com/vaaakoo/vaaakoo/issues/new?title=c4-move-5&body=Just+click+Submit+new+issue+to+drop+your+token!"><kbd>&nbsp;⬇️ Col 6&nbsp;</kbd></a> &nbsp;
+  <a href="https://github.com/vaaakoo/vaaakoo/issues/new?title=c4-move-6&body=Just+click+Submit+new+issue+to+drop+your+token!"><kbd>&nbsp;⬇️ Col 7&nbsp;</kbd></a>
+</p>
   <a href="https://github.com/vaaakoo/vaaakoo/issues/new?title=c4-move-6&body=Just+click+Submit+new+issue+to+drop+your+token!"><kbd>&nbsp;⬇️ Col 7&nbsp;</kbd></a>
 </p>
