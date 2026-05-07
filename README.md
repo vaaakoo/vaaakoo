@@ -24,9 +24,9 @@
   <img src="./dist/terminal.svg" alt="Terminal Animation" width="80%">
 </p>
 
-<!-- <p align="center">
+<p align="center">
   <img src="./profile-3d-contrib/profile-night-view.svg" width="80%">
-</p> -->
+</p>
 
 ## 🛠️ Tech Stack
 
