@@ -69,17 +69,15 @@
     <text class="text l8" y="165">}</text>
 
     <text class="text l9" y="198"><tspan class="prompt">vaaakoo@vaaakoo-dev</tspan>:<tspan class="path">~</tspan>$ <tspan class="cmd">./get_experience.sh</tspan></text>
-    <text class="text l10" y="220">> [2026-Present] Back-End Developer @ MicroBank Crystal</text>
-    <text class="text l11" y="242">> [2024-2026] Back-End Developer @ Payunicard</text>
-    <text class="text l12" y="264">> [2023-2024] Back-End Developer @ Revenue Service</text>
-    <text class="text l13" y="286">> [2022-2023] Full-Stack Developer @ Bitoid Technologies</text>
+    <text class="text l10" y="220">> [Current] Back-End Developer @ Payunicard</text>
+    <text class="text l11" y="242">> [2023-2024] Back-End Developer @ Revenue Service</text>
+    <text class="text l12" y="264">> [2022-2023] Full-Stack Developer @ Bitoid Technologies</text>
 
+    <text class="text l13" y="297"><tspan class="prompt">vaaakoo@vaaakoo-dev</tspan>:<tspan class="path">~</tspan>$ <tspan class="cmd">./status.sh</tspan></text>
+    <text class="text l14" y="319">> Focus: Building highly scalable, reliable systems with clean architecture.</text>
+    <text class="text l15" y="341">> Active Project: Nexus.Core (Full-stack E-commerce Architecture)</text>
 
-    <text class="text l14" y="308"><tspan class="prompt">vaaakoo@vaaakoo-dev</tspan>:<tspan class="path">~</tspan>$ <tspan class="cmd">./status.sh</tspan></text>
-    <text class="text l15" y="330">> Focus: Building highly scalable, reliable systems with clean architecture.</text>
-    <text class="text l16" y="352">> Active Project: Nexus.Core (Full-stack E-commerce Architecture)</text>
-
-    <text class="text l17" y="385"><tspan class="prompt">vaaakoo@vaaakoo-dev</tspan>:<tspan class="path">~</tspan>$</text>
-    <rect class="text l17 cursor" x="182" y="373" width="8" height="15" />
+    <text class="text l16" y="374"><tspan class="prompt">vaaakoo@vaaakoo-dev</tspan>:<tspan class="path">~</tspan>$</text>
+    <rect class="text l16 cursor" x="182" y="362" width="8" height="15" />
   </g>
 </svg>
